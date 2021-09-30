@@ -1,13 +1,4 @@
-/**
- * @file student.c
- * @author Vinayaka SM (you@domain.com)
- * @brief 
- * @version 0.1
- * @date 2021-09-06
- * 
- * @copyright Copyright (c) 2021
- * 
- */
+
 #include "ll.h"
 
  int count =0;
